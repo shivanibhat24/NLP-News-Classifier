@@ -127,7 +127,6 @@ news-classifier/
 │   ├── newsclassifier_RFOREST_model.pkl
 │   ├── newsclassifier_NB_model.pkl
 │   └── newsclassifier_CART_model.pkl
-├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
 ```
 
