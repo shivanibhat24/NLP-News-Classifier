@@ -2,7 +2,6 @@
 
 A sophisticated web application that uses machine learning to classify news articles into categories and perform natural language processing tasks.
 
-![App Screenshot](https://via.placeholder.com/800x400?text=News+Classifier+Screenshot)
 
 ## 🌟 Features
 
@@ -42,7 +41,7 @@ A sophisticated web application that uses machine learning to classify news arti
 
 2. Install required packages
    ```bash
-   pip install -r requirements.txt
+   pip install streamlit joblib os pandas spacy wordcloud matplotlib PIL
    ```
 
 3. Download the spaCy English model
