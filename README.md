@@ -41,7 +41,7 @@ A sophisticated web application that uses machine learning to classify news arti
 
 2. Install required packages
    ```bash
-   pip install streamlit joblib os pandas spacy wordcloud matplotlib PIL
+   pip install streamlit joblib os pandas wordcloud matplotlib PIL
    ```
 
 3. Download the spaCy English model
